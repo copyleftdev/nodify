@@ -1,0 +1,11 @@
+{
+  "name": "chapter_six",
+  "version": "1.0.0",
+  "description": "chaopter 6 caching & scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "don johnson <dj@codetestcode.io>",
+  "license": "ISC"
+}

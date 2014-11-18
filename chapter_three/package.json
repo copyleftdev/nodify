@@ -1,0 +1,14 @@
+{
+  "name": "chapter_three",
+  "version": "1.0.0",
+  "description": "chapter three example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Don Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
